@@ -6,8 +6,8 @@ title: Biorhythm – Privacy Policy / Datenschutzerklärung
 
 [Deutsch](#deutsch) · [English](#english)
   
-> `Bornstr. 25a 20146 Hamburg` = Anschrift / Anbieterangaben  
-> `moritz.dehler@hotmail.de` = Kontakt-E-Mail
+> `Bornstr. 25a 20146 Hamburg`  
+> `moritz.dehler@hotmail.de`
 
 ---
 
