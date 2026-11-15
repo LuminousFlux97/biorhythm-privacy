@@ -12,7 +12,7 @@ title: Biorhythm – Privacy Policy / Datenschutzerklärung
 
 ## Datenschutzerklärung für die App „Biorhythm“
 
-**Stand: 7. November 2026**
+**Stand: 15. November 2026**
 
 ## 1. Verantwortlicher und Kontakt
 
@@ -36,7 +36,8 @@ Bestimmte Funktionen können jedoch auf ausdrücklichen Wunsch des Nutzers Daten
 
 - Android-Systembackups,
 - den Kalenderexport und die optionale automatische Kalendersynchronisierung,
-- das Teilen von Texten oder Bildern über das Android Share Sheet.
+- das Teilen von Texten oder Bildern über das Android Share Sheet,
+- das Kopieren des Tagesimpulses in die Zwischenablage von Android.
 
 ## 3. In der App verarbeitete Daten
 
@@ -113,6 +114,8 @@ Die Planung und Anzeige erfolgt über die lokalen Benachrichtigungsfunktionen vo
 
 Wenn Sie ein Biorhythm-Widget auf dem Android-Startbildschirm verwenden, erzeugt die App lokal die dafür benötigten Daten. Diese können insbesondere Profilname, berechnete Biorhythmuswerte, Trends und Tagesinformationen enthalten.
 
+Das Vergleichs-Widget zeigt zusätzlich den Namen und die berechneten Werte eines zweiten Profils, das Sie in der App auswählen. Inhalte von Widgets sind auf dem Startbildschirm für alle sichtbar, die Ihr Gerät sehen können.
+
 Technische Widget-Nutzdaten werden nicht als portable Backup-Daten gesichert.
 
 ## 7. Kalenderzugriff und Kalenderexport
@@ -143,7 +146,7 @@ Biorhythm schreibt Kalenderdaten ausschließlich über die Android-Kalenderfunkt
 
 Wenn der ausgewählte Kalender jedoch mit einem externen Konto oder Kalenderdienst synchronisiert wird, können die Kalenderinhalte und zugehörigen technischen Kennungen durch diesen Anbieter synchronisiert und auf dessen Server übertragen werden.
 
-## 8. Teilen von Inhalten
+## 8. Teilen und Kopieren von Inhalten
 
 Biorhythm ermöglicht sowohl das Teilen von Textinhalten als auch das Teilen einer von der App erzeugten Bildkarte.
 
@@ -152,6 +155,8 @@ Geteilte Inhalte können beispielsweise Profilname, Datum, Biorhythmuswerte, Tre
 Beim Aufruf der Teilen-Funktion übergibt Biorhythm den ausgewählten Inhalt zunächst an das Android Share Sheet. Wenn Sie dort eine Ziel-App oder einen Dienst auswählen, wird der Inhalt an diesen Empfänger übergeben.
 
 Bei Bildfreigaben kann durch die verwendete Android-Teilen-Funktion vorübergehend eine Datei im Cache-Bereich erzeugt werden. Cache-Dateien gehören nicht zu den portablen App-Backups.
+
+Zusätzlich lässt sich der Tagesimpuls als Text in die Zwischenablage von Android kopieren. Der kopierte Text kann Profilname, Datum und Tageshinweise enthalten. Biorhythm liest die Zwischenablage selbst nie aus. Was mit dem kopierten Text geschieht, hängt davon ab, wo Sie ihn einfügen; je nach Android-Version kann auch die aktive Tastatur-App auf die Zwischenablage zugreifen.
 
 ## 9. Mondkalender, Biorhythmus und Tagesinformationen
 
@@ -253,7 +258,7 @@ Diese Datenschutzerklärung kann angepasst werden, wenn sich Funktionen der App,
 
 ## Privacy Policy for the “Biorhythm” App
 
-**Last updated: November 7, 2026**
+**Last updated: November 15, 2026**
 
 ## 1. Controller and Contact
 
@@ -273,7 +278,7 @@ The current Android version of the app does not operate its own server for stori
 
 The app does not independently transmit personal data to a Biorhythm-operated server.
 
-However, when you explicitly choose to use certain features, data may be passed to operating-system functions or to other apps and services selected by you. This particularly applies to Android system backups, calendar export and optional automatic calendar synchronization, and sharing text or images using the Android Share Sheet.
+However, when you explicitly choose to use certain features, data may be passed to operating-system functions or to other apps and services selected by you. This particularly applies to Android system backups, calendar export and optional automatic calendar synchronization, sharing text or images using the Android Share Sheet, and copying the Daily Insight to the Android clipboard.
 
 ## 3. Data Processed by the App
 
@@ -315,7 +320,7 @@ Biorhythm does not use a proprietary push-notification server.
 
 ## 6. Home Screen Widgets
 
-Android home-screen widgets may locally contain the profile name, calculated biorhythm values, trends, and daily information. Technical widget payload data is excluded from portable backups.
+Android home-screen widgets may locally contain the profile name, calculated biorhythm values, trends, and daily information. The comparison widget additionally shows the name and calculated values of a second profile that you select in the app. Widget content on the home screen is visible to anyone who can see your device. Technical widget payload data is excluded from portable backups.
 
 ## 7. Calendar Access and Calendar Export
 
@@ -341,7 +346,7 @@ Biorhythm writes calendar information only through Android's calendar functions 
 
 If the selected calendar is synchronized with an external account or service, calendar content and associated technical identifiers may be synchronized by that provider and transferred to its servers.
 
-## 8. Sharing Content
+## 8. Sharing and Copying Content
 
 Biorhythm supports sharing both text content and an image card generated by the app.
 
@@ -350,6 +355,8 @@ Shared content may include profile name, date, biorhythm values, trends, daily i
 When sharing is invoked, the selected content is first passed to the Android Share Sheet. If you select a target app or service, the content is then passed to that recipient.
 
 For image sharing, a temporary file may be created in the cache area. Cache files are not part of portable app backups.
+
+In addition, the Daily Insight can be copied as text to the Android clipboard. The copied text may include the profile name, date, and daily information. Biorhythm itself never reads the clipboard. What happens to the copied text depends on where you paste it; depending on the Android version, the active keyboard app can also access the clipboard.
 
 ## 9. Moon Calendar, Biorhythm, and Daily Information
 
